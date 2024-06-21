@@ -1,4 +1,4 @@
-// Function to convert Arabic number to Roman numeral
+// Function to convert Decimal number to Roman numeral
 const convertToRoman = num => {
     if (num <= 0 || num >= 4000) {
         return "Please enter a number between 1 and 3999";

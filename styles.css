@@ -51,3 +51,21 @@ button:hover {
     font-size: 18px;
     color: #333;
 }
+
+/* Media Query for Mobile Devices */
+@media (max-width: 600px) {
+    .container {
+        padding: 15px;
+        box-shadow: none;
+        max-width: 90%;
+    }
+
+    input[type="text"], button {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    #output {
+        font-size: 16px;
+    }
+}

@@ -26,8 +26,9 @@ This project provides a straightforward interface for users to enter a number (b
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
+https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000411.png
+https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000348.png
+https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000332.png
 
 ## Installation
 

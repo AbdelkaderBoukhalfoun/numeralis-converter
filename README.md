@@ -49,4 +49,3 @@ This project is licensed under the MIT License with a restriction: You may not u
 ## Acknowledgments
 
 - Roman numeral conversion logic adapted from [Wikipedia](https://en.wikipedia.org/wiki/Roman_numerals).
-- Icons used in the application are from [Font Awesome](https://fontawesome.com/).

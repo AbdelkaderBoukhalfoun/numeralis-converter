@@ -26,9 +26,15 @@ This project provides a straightforward interface for users to enter a number (b
 
 ## Screenshots
 
-https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000411.png
-https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000348.png
-https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000332.png
+### Roman Numeral Converter Interface
+![Roman Numeral Converter Interface](https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000411.png)
+
+### Error Handling - Invalid Input
+![Error Handling - Invalid Input](https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000348.png)
+
+### Error Handling - Out of Range
+![Error Handling - Out of Range](https://github.com/AbdelkaderBoukhalfoun/numeralis-converter/blob/main/Screenshot%202024-06-22%20000332.png)
+
 
 ## Installation
 

@@ -35,7 +35,7 @@ Clone the repository and open `index.html` in your web browser:
 
 ```bash
 git clone https://github.com/AbdelkaderBoukhalfoun/numeralis-converter.git
-cd roman-numeral-converter
+cd numeral-converter
 ```
 
 ## Contributing

@@ -6,9 +6,6 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    /* existing styles */
-    background-image: url(1330715.png);
-    /* Preload the image */
     background-image: url(1330715.png);
 
 }

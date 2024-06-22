@@ -6,12 +6,10 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    /* Your existing styles */
+    /* existing styles */
     background-image: url(1330715.png);
     /* Preload the image */
     background-image: url(1330715.png);
-    display: none; /* Hide the image to prevent visual clutter */
-}
 
 }
 
